@@ -11,7 +11,7 @@
 <div align="center">
  
  
- 🌱 I’m currently learning **Socket.oi, MySQL, TypeScript, Mongoose**
+ 🌱 I’m currently learning **Redux,TypeScript**
 
 💬 Ask me about **React, Firebase, JWT**
 
