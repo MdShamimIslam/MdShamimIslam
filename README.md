@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Socket.oi, MySQL, TypeScript, Mongoose**
 
-💬 Ask me about **Node.js, React, Firebase**
+💬 Ask me about **React, Firebase, JWT**
 
 
  </div>
@@ -39,7 +39,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,mui" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,nextjs." /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb,next.js." /><br>
 </div>
 
 <br/>
