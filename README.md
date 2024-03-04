@@ -11,7 +11,7 @@
 <div align="center">
  
  
- 🌱 I’m currently learning **Redux,Next.js**
+ 🌱 I’m currently learning **Redux, Next.js**
 
 💬 Ask me about **React, Firebase, JWT**
 
