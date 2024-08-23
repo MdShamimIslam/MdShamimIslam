@@ -11,7 +11,7 @@
 <div align="center">
  
  
- 🌱 I’m currently learning **Postgresql, Socket.IO**
+ 🌱 I’m currently learning **React Native**
 
 💬 Ask me about **React, Next.JS, Redux, TypeScript**
 
