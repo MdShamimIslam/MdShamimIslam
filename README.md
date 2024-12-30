@@ -23,7 +23,7 @@
    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=blue" />
   </a>
 
-<a href="https://shamim-self-portfolio.netlify.app" target="_blank">
+<a href="https://shamim-v0.netlify.app" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
     
