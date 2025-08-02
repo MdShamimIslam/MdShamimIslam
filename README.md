@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Assalamualikum+👋;+I'm+Md.+Shamim+Islam!;" />
 </h1>
 
-<h3 align="center"> WordPress plugin & Gutenberg block developer, plus a hand-coded full-stack web developer building websites from scratch using React, Next.js, TypeScript and Redux </h3>
+<h3 align="center"> WordPress plugin & Gutenberg block developer, plus a hand-coded full-stack web developer building websites from scratch using React, Next.js, TypeScript, Redux etc. </h3>
 
 <br/>
 
