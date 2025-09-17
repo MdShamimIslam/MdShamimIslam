@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Assalamualikum+👋;+I'm+Md.+Shamim+Islam!;" />
 </h1>
 
-<h4 align="center"> I’m a passionate Full-Stack Web Developer with hands-on expertise in building scalable, high-performance web applications and custom WordPress solutions. I specialize in both modern JavaScript frameworks and WordPress plugin development, delivering clean, optimized, and user-focused applications. </h4>
+<p align="center"> I’m a passionate Full-Stack Web Developer with hands-on expertise in building scalable, high-performance web applications and custom WordPress solutions. I specialize in both modern JavaScript frameworks and WordPress plugin development, delivering clean, optimized, and user-focused applications. </p>
 
 <br/>
 
